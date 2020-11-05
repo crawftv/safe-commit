@@ -1,0 +1,6 @@
+pip-tools
+pre-commit
+ipython
+pytest
+tox
+pre-commit
