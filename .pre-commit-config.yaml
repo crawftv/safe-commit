@@ -1,0 +1,9 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: safe-commit
+        name: safe-commit
+        entry: safe-commit
+        language: system
+        pass_filenames: false
+        always_run: true
