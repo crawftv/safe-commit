@@ -3,6 +3,3 @@
   description: "Check that you are not committing to a protected branch"
   entry: safe-commit
   language: python
-  language_version: python3
-  require_serial: true
-  types: [python]
