@@ -2,4 +2,5 @@
   name: safe-commit
   description: "Check that you are not committing to a protected branch"
   entry: safe-commit
-  language: python
+  language: system
+  pass_filenames: false
